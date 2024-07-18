@@ -1,6 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+TODO:
 
-## Getting Started
+- [ ] Set up project structure
+- [ ] Implement user authentication
+- [ ] Integrate Plaid API
+- [ ] Create dashboard for account overview
+- [ ] Implement transaction history feature
+- [ ] Add budgeting functionality
+- [ ] Develop savings goals feature
+- [ ] Implement notifications system
+- [ ] Create mobile-responsive design
+- [ ] Write unit and integration tests
+- [ ] Perform security audit
+- [ ] Optimize performance
+- [ ] Fix environment variables
+- [ ] Write documentation
+- [ ] Prepare for deployment
+
+This is a [Next.js](https://nextjs.org/) project!
+
+### Financia Banking App with Plaid
 
 First, run the development server:
 
